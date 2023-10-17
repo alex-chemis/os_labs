@@ -1,0 +1,10 @@
+Child process 2 wrote to the file.
+Child process 0 wrote to the file.
+Child process 1 wrote to the file.
+Child process 0 wrote to the file.
+Child process 1 wrote to the file.
+Child process 0 wrote to the file.
+Child process 1 wrote to the file.
+Child process 2 wrote to the file.
+Child process 0 wrote to the file.
+Child process 2 wrote to the file.
