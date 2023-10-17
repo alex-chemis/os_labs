@@ -15,6 +15,7 @@ void ClientHandler(SOCKET clientSocket) {
         bytesRead = recv(clientSocket, buffer, sizeof(buffer), 0);
 
         if (bytesRead <= 0) {
+
             // Connection closed or error
             break;
         }
